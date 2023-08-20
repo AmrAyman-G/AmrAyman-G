@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmrAyman-G
-- 👀 I’m interested in software development and computer science in general 
-- 🌱 I’m currently learning ios development 
+- 👀 I’m interested in software development especially mobile app development
+- 🌱 I’m currently working as a react native developer 
 - 📫 How to reach me : linkedin.com/in/amr-ayman-257293234
 <!-- - 💞️ I’m looking to collaborate on ... -->
 
